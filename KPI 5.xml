@@ -1,0 +1,1735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">home_ownership</Data></Cell>
+			<Cell><Data ss:Type="String">last_pymnt_d</Data></Cell>
+			<Cell><Data ss:Type="String">total_amount</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2016-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$16.88K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2016-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$3.12K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2016-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$31.08K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2016-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$5.21K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2016-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.69K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2016-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$9.82K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2016-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$10.67K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2016-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.97K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2016-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$12.72K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2016-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$7.67K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2016-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.22K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2016-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$11.47K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2016-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$8.59K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2016-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.83K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2016-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$15.66K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2015-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$9.05K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2015-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.50K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2015-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$9.35K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2015-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$10.01K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2015-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$4.70K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2015-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$16.21K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2015-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$11.05K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2015-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.84K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2015-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$19.25K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2015-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$13.46K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2015-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.63K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2015-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$18.03K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2015-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$16.23K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2015-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.19K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2015-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$19.88K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2015-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$15.45K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2015-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$4.37K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2015-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.06K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2015-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$28.54K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2015-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$16.76K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2015-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.84K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2015-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$26.43K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2015-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$15.66K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2015-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.49K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2015-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$31.88K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2015-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$17.29K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2015-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.43K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2015-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$27.97K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2015-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$25.97K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2015-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$3.84K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2015-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$44.78K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2015-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$22.09K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2015-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$3.02K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2015-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$36.95K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2015-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$28.82K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2015-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$6.17K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2015-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$26.15K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2014-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$31.27K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2014-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$3.27K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2014-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$44.30K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2014-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$29.11K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2014-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$5.73K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2014-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$48.92K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2014-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$31.09K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2014-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$10.52K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2014-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$67.31K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2014-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$30.67K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2014-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$5.67K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2014-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$55.20K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2014-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$50.95K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2014-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$4.17K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2014-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$53.82K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2014-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$45.27K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2014-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$6.62K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2014-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$82.09K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2014-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$37.92K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2014-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$3.67K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2014-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$86.19K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2014-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$42.89K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2014-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$5.98K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2014-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$59.45K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2014-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$62.44K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2014-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$5.10K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2014-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$75.26K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2014-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$66.84K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2014-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$9.87K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2014-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$87.81K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2014-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$60.66K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2014-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$14.97K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2014-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$90.86K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2014-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$57.50K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2014-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$6.10K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2014-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$95.02K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2013-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$57.37K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2013-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$9.03K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2013-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$87.19K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2013-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$58.72K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2013-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$11.89K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2013-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$84.46K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2013-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$63.97K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2013-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$8.58K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2013-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$91.75K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2013-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$72.37K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2013-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$10.35K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2013-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$88.75K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2013-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$75.81K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2013-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$12.04K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2013-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$97.96K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2013-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$71.73K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2013-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$17.45K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2013-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$101.96K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2013-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$71.13K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2013-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$9.26K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2013-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$114.74K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2013-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$79.34K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2013-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$12.87K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2013-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$141.26K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2013-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$95.45K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2013-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$13.10K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2013-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$145.70K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2013-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$126.34K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2013-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$20.10K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2013-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$172.75K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2013-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$82.75K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2013-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$21.45K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2013-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$129.20K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2013-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$82.63K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2013-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$12.91K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2013-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$146.63K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2012-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$104.70K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2012-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$22.15K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2012-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.05K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2012-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$111.24K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2012-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$76.53K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2012-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$13.50K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2012-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.03K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2012-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$118.96K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2012-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$104.34K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2012-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$10.28K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2012-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.09K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2012-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$122.62K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2012-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$105.34K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2012-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$14.25K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2012-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.12K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2012-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$134.46K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$112.76K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$20.00K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.10K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2012-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$131.31K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2012-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$98.45K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2012-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$18.34K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2012-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.09K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2012-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$112.49K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2012-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$86.00K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2012-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$18.69K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2012-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.03K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2012-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$120.77K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2012-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$126.37K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2012-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$19.44K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2012-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.27K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2012-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$143.05K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2012-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$136.03K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2012-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$23.48K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2012-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.16K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2012-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$133.31K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2012-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$134.23K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2012-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$23.87K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2012-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.09K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2012-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$192.48K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2012-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$120.03K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2012-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$30.47K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2012-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.13K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2012-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$150.84K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2012-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$77.96K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2012-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$19.18K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2012-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$111.55K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2011-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$79.26K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2011-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$14.59K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2011-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.45K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$101.35K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2011-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$73.09K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2011-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$16.85K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2011-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.21K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$76.04K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2011-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$63.94K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2011-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$13.48K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$117.03K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2011-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$68.19K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2011-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$15.16K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2011-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.68K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$107.48K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2011-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$75.56K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2011-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$16.84K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2011-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.14K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$89.71K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2011-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$62.35K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2011-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$8.33K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2011-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.94K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$87.08K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2011-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$62.34K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2011-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$12.08K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2011-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.07K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$87.44K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2011-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$57.30K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2011-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$12.01K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2011-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.80K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$97.45K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2011-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$54.33K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2011-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$11.01K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2011-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.36K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$85.59K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2011-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$69.51K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2011-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$19.36K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2011-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.24K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$75.41K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2011-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$54.23K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2011-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$10.85K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2011-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.82K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NONE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.03K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$51.11K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2011-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$43.22K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2011-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$6.41K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2011-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$33.63K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2010-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$33.07K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2010-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$8.09K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$34.06K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2010-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$26.46K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2010-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$6.18K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2010-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.91K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$23.87K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2010-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$31.31K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2010-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$11.12K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2010-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.22K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$32.69K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2010-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$18.09K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2010-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$6.17K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2010-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.03K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NONE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.02K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$24.21K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2010-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$17.40K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2010-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$7.53K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2010-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.25K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$21.76K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2010-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$26.61K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2010-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$3.08K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2010-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.70K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$31.45K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2010-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$18.91K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2010-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$3.49K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2010-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.39K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$15.31K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2010-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$7.87K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2010-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$3.32K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2010-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.44K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$21.39K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2010-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$18.75K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2010-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$5.32K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$18.65K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2010-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$30.52K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2010-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$6.67K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2010-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.06K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$22.15K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2010-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$11.22K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2010-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$66.64K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2010-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.15K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$18.92K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2010-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$17.22K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2010-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.11K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2010-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$9.64K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2009-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$15.30K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2009-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.72K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2009-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.47K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2009-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$11.74K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2009-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$10.92K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2009-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.85K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2009-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.39K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2009-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$11.72K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2009-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$14.79K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2009-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.11K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2009-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.06K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2009-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$7.27K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2009-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.91K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2009-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.01K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2009-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.49K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2009-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$10.02K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2009-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$6.42K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2009-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.12K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2009-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$11.98K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2009-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$8.95K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2009-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.68K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2009-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.14K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2009-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$9.36K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2009-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$7.15K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2009-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.07K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2009-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.08K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2009-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$6.30K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2009-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$7.57K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2009-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.87K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2009-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$4.71K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2009-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$8.35K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2009-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.09K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2009-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$6.80K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2009-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$8.27K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2009-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.39K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2009-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.19K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2009-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$7.46K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2009-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$5.35K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2009-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.89K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2009-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.42K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2009-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$4.15K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2009-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$4.60K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2009-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.04K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTHER</Data></Cell>
+			<Cell><Data ss:Type="String">2009-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.02K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2009-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$8.92K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2008-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.87K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2008-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.48K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2008-12-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.73K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2008-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.54K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2008-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.07K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2008-11-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.65K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2008-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$8.02K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2008-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.03K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2008-10-01</Data></Cell>
+			<Cell><Data ss:Type="String">$5.23K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2008-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$3.44K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2008-09-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.07K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2008-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$3.54K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2008-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.03K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2008-08-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.30K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2008-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$4.26K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2008-07-01</Data></Cell>
+			<Cell><Data ss:Type="String">$3.79K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2008-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.23K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2008-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.96K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2008-06-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.84K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2008-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.45K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2008-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.50K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2008-05-01</Data></Cell>
+			<Cell><Data ss:Type="String">$8.46K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2008-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$3.79K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2008-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.71K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2008-04-01</Data></Cell>
+			<Cell><Data ss:Type="String">$2.54K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2008-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.60K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2008-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.01K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2008-03-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.88K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String">2008-02-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.77K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String">2008-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$0.41K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String">2008-01-01</Data></Cell>
+			<Cell><Data ss:Type="String">$1.40K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RENT</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">$0.00K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OWN</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">$0.00K</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MORTGAGE</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">$0.00K</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

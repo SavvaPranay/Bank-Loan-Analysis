@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">grade</Data></Cell>
+			<Cell><Data ss:Type="String">sub_grade</Data></Cell>
+			<Cell><Data ss:Type="String">total_revol_bal</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">A</Data></Cell>
+			<Cell><Data ss:Type="String">A1</Data></Cell>
+			<Cell><Data ss:Type="Number">11365196</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">A</Data></Cell>
+			<Cell><Data ss:Type="String">A2</Data></Cell>
+			<Cell><Data ss:Type="Number">14004780</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">A</Data></Cell>
+			<Cell><Data ss:Type="String">A3</Data></Cell>
+			<Cell><Data ss:Type="Number">19543922</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">A</Data></Cell>
+			<Cell><Data ss:Type="String">A4</Data></Cell>
+			<Cell><Data ss:Type="Number">34557156</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">A</Data></Cell>
+			<Cell><Data ss:Type="String">A5</Data></Cell>
+			<Cell><Data ss:Type="Number">35303045</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">B</Data></Cell>
+			<Cell><Data ss:Type="String">B1</Data></Cell>
+			<Cell><Data ss:Type="Number">21842079</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">B</Data></Cell>
+			<Cell><Data ss:Type="String">B2</Data></Cell>
+			<Cell><Data ss:Type="Number">26478439</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">B</Data></Cell>
+			<Cell><Data ss:Type="String">B3</Data></Cell>
+			<Cell><Data ss:Type="Number">39723554</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">B</Data></Cell>
+			<Cell><Data ss:Type="String">B4</Data></Cell>
+			<Cell><Data ss:Type="Number">35405811</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">B</Data></Cell>
+			<Cell><Data ss:Type="String">B5</Data></Cell>
+			<Cell><Data ss:Type="Number">37858666</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">C1</Data></Cell>
+			<Cell><Data ss:Type="Number">29384926</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">C2</Data></Cell>
+			<Cell><Data ss:Type="Number">27321114</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">C3</Data></Cell>
+			<Cell><Data ss:Type="Number">20531370</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">C4</Data></Cell>
+			<Cell><Data ss:Type="Number">16867691</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">C5</Data></Cell>
+			<Cell><Data ss:Type="Number">16015609</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">D1</Data></Cell>
+			<Cell><Data ss:Type="Number">12130255</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">D2</Data></Cell>
+			<Cell><Data ss:Type="Number">18570972</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">D3</Data></Cell>
+			<Cell><Data ss:Type="Number">16793781</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">D4</Data></Cell>
+			<Cell><Data ss:Type="Number">13742947</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">D5</Data></Cell>
+			<Cell><Data ss:Type="Number">13252474</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">E1</Data></Cell>
+			<Cell><Data ss:Type="Number">11132588</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">E2</Data></Cell>
+			<Cell><Data ss:Type="Number">10242033</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">E3</Data></Cell>
+			<Cell><Data ss:Type="Number">9039059</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">E4</Data></Cell>
+			<Cell><Data ss:Type="Number">7990991</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">E5</Data></Cell>
+			<Cell><Data ss:Type="Number">7669868</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">F1</Data></Cell>
+			<Cell><Data ss:Type="Number">5840746</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">F2</Data></Cell>
+			<Cell><Data ss:Type="Number">4528248</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">F3</Data></Cell>
+			<Cell><Data ss:Type="Number">3175435</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">F4</Data></Cell>
+			<Cell><Data ss:Type="Number">2551064</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">F5</Data></Cell>
+			<Cell><Data ss:Type="Number">2187323</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">G</Data></Cell>
+			<Cell><Data ss:Type="String">G1</Data></Cell>
+			<Cell><Data ss:Type="Number">1808763</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">G</Data></Cell>
+			<Cell><Data ss:Type="String">G2</Data></Cell>
+			<Cell><Data ss:Type="Number">1729627</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">G</Data></Cell>
+			<Cell><Data ss:Type="String">G3</Data></Cell>
+			<Cell><Data ss:Type="Number">832193</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">G</Data></Cell>
+			<Cell><Data ss:Type="String">G4</Data></Cell>
+			<Cell><Data ss:Type="Number">1390628</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">G</Data></Cell>
+			<Cell><Data ss:Type="String">G5</Data></Cell>
+			<Cell><Data ss:Type="Number">701515</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
